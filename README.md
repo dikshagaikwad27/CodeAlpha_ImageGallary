@@ -18,5 +18,4 @@ JavaScript
 Open index.html in browser.
 
 👩‍💻 Author
-
-Pooja Andhare
+DIKSHA SANJAY GAIKWAD 
