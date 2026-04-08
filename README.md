@@ -15,6 +15,9 @@ CSS
 JavaScript
 ▶️ How to Run
 
+live demo:
+https://dikshagaikwad27.github.io/CodeAlpha_ImageGallary/
+
 Open index.html in browser.
 
 👩‍💻 Author
