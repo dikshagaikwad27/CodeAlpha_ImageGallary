@@ -13,12 +13,14 @@ Responsive design
 HTML
 CSS
 JavaScript
+
 ▶️ How to Run
+Open index.html in browser.
 
 live demo:
 https://dikshagaikwad27.github.io/CodeAlpha_ImageGallary/
 
-Open index.html in browser.
+
 
 👩‍💻 Author
 DIKSHA SANJAY GAIKWAD 
